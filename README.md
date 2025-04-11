@@ -1,1 +1,1 @@
-This is a Simple E-Commerce Webs te 
+This is a Simple E-Commerce Website 
